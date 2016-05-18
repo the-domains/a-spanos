@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5590762
+  brandStrength: 0.5034582
+  lightness: 0.3421053
+  rhythmicContrast: 0.8243824
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.3388829
+name: A.spanos
